@@ -152,7 +152,7 @@ plt.axis('equal')
 plt.show()
 ```
 
-![download (1)](C:\Users\vip phone\Desktop\UpWork\Analytical Neuron\download (1).png)
+![image](https://user-images.githubusercontent.com/32298957/229250555-7290ad4f-ee44-4688-9afd-c47c4ab6b658.png)
 
 ### Timestamp Comparison
 
@@ -170,7 +170,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![download](C:\Users\vip phone\Desktop\UpWork\Analytical Neuron\download.png)
+![image](https://user-images.githubusercontent.com/32298957/229250522-56d86f78-c176-44a2-b4b0-03020b397007.png)
 
 ### Handling Missing Values
 
